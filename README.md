@@ -74,10 +74,11 @@ mvn spring-boot:run
 
 Пример запроса для создания нового сотрудника:
 
-```json
+```text
 POST /api/v1/employees
 Content-Type: application/json
-
+```
+```json
 {
   "firstName": "John",
   "lastName": "Doe",
@@ -110,4 +111,4 @@ mvn test
 
 ## Лицензия
 
-Этот проект распространяется под (лицензией MIT)[LISENCE].
+Этот проект распространяется под (лицензией MIT)[LICENSE].
