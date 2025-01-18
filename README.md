@@ -3,7 +3,7 @@
 ## Описание проекта
 
 Этот проект представляет собой демо-приложение, использующее Spring Boot для создания бэкенда и React.js для фронтенда. Бэкенд работает с базой данных MySQL и предоставляет REST API для взаимодействия с фронтендом.
->Ссылка на [FrontEnd](https://github.com/DANTECK-dev/ems-react-spring/blob/master/README.md)
+>Ссылка на [FrontEnd](https://github.com/DANTECK-dev/ems-react-spring)
 
 ## Стек технологий
 
