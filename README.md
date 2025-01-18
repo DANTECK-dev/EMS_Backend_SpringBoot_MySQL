@@ -1,4 +1,4 @@
-# README: Backend (Spring Boot + MySQL)
+# Backend (Spring Boot + MySQL)
 
 ## Описание проекта
 
