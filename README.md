@@ -1,4 +1,4 @@
-# Backend (Spring Boot + MySQL)
+# Employee Managment System(EMS) Backend (Spring Boot + MySQL)
 
 ## Описание проекта
 
